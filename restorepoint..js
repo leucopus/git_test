@@ -3,7 +3,7 @@
 
 
 1.// ___BEFORE MAKING CHANGES: "git add ." | "git add <filename>"
-2.//___COMMIT FILE
+2.//___COMMIT FILE &PUSH TO GITHUB
 // ...EDIT FILE
 
 1.5//TO UPDATE EDIT TO STAGED FILE: "git add ."
